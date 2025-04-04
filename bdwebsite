@@ -4,6 +4,9 @@
 main.py
 requirements.txt
 README.md
+git add requirements.txt
+git commit -m "Add requirements.txt"
+git push origin main
 
 from flask import Flask, render_template_string, request
 
